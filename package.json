@@ -23,7 +23,10 @@
     "pg": "^7.4.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "sequelize": "^4.38.1"
+    "sequelize": "^4.38.1",
+    "travis": "^0.1.1",
+    "travis-ci": "^2.2.0",
+    "travis-cli": "^1.0.9"
   },
   "devDependencies": {
     "@babel/core": "^7.1.0",
